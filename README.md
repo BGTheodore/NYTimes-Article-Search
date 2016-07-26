@@ -48,7 +48,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BGTheodore/NYTimes-Article-Search/blob/master/Assignment%20Licecap.gif' title='Video Walkthrough' width=' 60" ' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](C:\Users\CUSTOMER\Desktop\week 2\Assignment Licecap.gif).
 
